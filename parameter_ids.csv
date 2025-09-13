@@ -1,0 +1,13 @@
+id,pollutant,units
+1,PM10,µg/m³
+2,PM2.5,µg/m³
+3,O₃ mass,µg/m³
+4,CO mass,µg/m³
+5,NO₂ mass,µg/m³
+6,SO₂ mass,µg/m³
+15,NO₂,ppb
+24,NO,ppb
+98,RH,%
+100,Temperature (C),c
+101,SO₂,ppb
+102,CO,ppb
